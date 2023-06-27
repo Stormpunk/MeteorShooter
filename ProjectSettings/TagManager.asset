@@ -4,17 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
   - Meteor
+  - DeathScreen
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Medkit
   - Water
   - UI
-  - 
-  - 
+  - Bullet
+  - Asteroid
   - 
   - 
   - 
